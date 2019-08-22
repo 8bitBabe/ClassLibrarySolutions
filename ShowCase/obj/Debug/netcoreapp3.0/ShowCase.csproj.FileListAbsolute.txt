@@ -1,0 +1,14 @@
+C:\Users\Denise\source\repos\ClassLibrarySolutions\ShowCase\bin\Debug\netcoreapp3.0\ShowCase.exe
+C:\Users\Denise\source\repos\ClassLibrarySolutions\ShowCase\bin\Debug\netcoreapp3.0\ShowCase.deps.json
+C:\Users\Denise\source\repos\ClassLibrarySolutions\ShowCase\bin\Debug\netcoreapp3.0\ShowCase.runtimeconfig.json
+C:\Users\Denise\source\repos\ClassLibrarySolutions\ShowCase\bin\Debug\netcoreapp3.0\ShowCase.runtimeconfig.dev.json
+C:\Users\Denise\source\repos\ClassLibrarySolutions\ShowCase\bin\Debug\netcoreapp3.0\ShowCase.dll
+C:\Users\Denise\source\repos\ClassLibrarySolutions\ShowCase\bin\Debug\netcoreapp3.0\ShowCase.pdb
+C:\Users\Denise\source\repos\ClassLibrarySolutions\ShowCase\bin\Debug\netcoreapp3.0\StringLibrary.dll
+C:\Users\Denise\source\repos\ClassLibrarySolutions\ShowCase\bin\Debug\netcoreapp3.0\StringLibrary.pdb
+C:\Users\Denise\source\repos\ClassLibrarySolutions\ShowCase\obj\Debug\netcoreapp3.0\ShowCase.csprojAssemblyReference.cache
+C:\Users\Denise\source\repos\ClassLibrarySolutions\ShowCase\obj\Debug\netcoreapp3.0\ShowCase.AssemblyInfoInputs.cache
+C:\Users\Denise\source\repos\ClassLibrarySolutions\ShowCase\obj\Debug\netcoreapp3.0\ShowCase.AssemblyInfo.cs
+C:\Users\Denise\source\repos\ClassLibrarySolutions\ShowCase\obj\Debug\netcoreapp3.0\ShowCase.csproj.CopyComplete
+C:\Users\Denise\source\repos\ClassLibrarySolutions\ShowCase\obj\Debug\netcoreapp3.0\ShowCase.dll
+C:\Users\Denise\source\repos\ClassLibrarySolutions\ShowCase\obj\Debug\netcoreapp3.0\ShowCase.pdb
