@@ -22,6 +22,10 @@ namespace StringLibraryTest
         {
             // Tests that we expect to return true.
             string[] words = { "Alphabet", "Zebra", "ABC", "Αθήνα", "Москва" };
+            /*this part would be considered the args where these automatically pass upon
+             starting. When tested these defaults will return true, but replacing them
+             will cause the test to fail. Notice there are greek letter involved. This is
+             why we Save As UTF-8 Encoded File, else those will register in error too.*/
             foreach (var word in words)
             {
                 bool result = word.StartsWithUpper();
@@ -37,6 +41,7 @@ namespace StringLibraryTest
             // Tests that we expect to return false.
             string[] words = { "alphabet", "zebra", "abc", "αυτοκινητοβιομηχανία", "государство",
                                "1234", ".", ";", " " };
+            //same happens here
             foreach (var word in words)
             {
                 bool result = word.StartsWithUpper();
@@ -51,6 +56,7 @@ namespace StringLibraryTest
         {
             // Tests that we expect to return false.
             string[] words = { string.Empty, null };
+            //if the User writes nothing, the program simply closes 
             foreach (var word in words)
             {
                 bool result = StringLibrary.StartsWithUpper(word);
